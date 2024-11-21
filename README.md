@@ -1,15 +1,43 @@
-# Hi there 👋, I'm [你的名字]
+<div align="center">
+  <h1>👋 Hello, World!</h1>
+  <p>Coding for fun and learning something new every day</p>
+</div>
 
-## 🚀 About Me
-[簡短的自我介紹]
+## 🌱 About Me
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Your Name"
+        self.role = "Software Developer"
+        self.interests = ["AI", "Web Development", "Data Science"]
+        self.hobbies = ["Reading", "Gaming", "Photography"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by!")
+```
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-[更多技術標籤...]
+## 🚀 What I'm Working On
+- 📱 Building cool side projects
+- 📚 Learning new technologies
+- 🎨 Exploring creative coding
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用戶名&show_icons=true&theme=radical)
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</div>
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](你的LinkedIn連結)
+## 📫 Get in Touch
+<div align="center">
+  <a href="你的LinkedIn連結">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:你的email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning;Always+growing&center=true&width=380&height=45">
+</div>
